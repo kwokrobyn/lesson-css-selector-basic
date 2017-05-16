@@ -1,0 +1,66 @@
+ul {
+  border: 3px dotted plum;
+  border-radius: 5px;
+}
+
+li {
+  border-top: 3px solid seagreen;
+}
+
+.fish {
+  background-color: lightYellow;
+  color: orange;
+  text-decoration: underline;
+}
+
+.mammal {
+  background-color: lavenderBlush;
+  color: red;
+  font-weight: bold;
+}
+
+.bird {
+  background-color: lightGray;
+  color: blue;
+  font-style: italic;
+}
+
+#mouse {
+  color: gray;
+}
+
+#canary {
+  color: orangeRed;
+}
+
+#penguin {
+  color: black;
+}
+
+#salmon {
+  color: salmon;
+}
+
+#cat {
+  color: sienna;
+}
+
+#goldfish {
+  color: gold;
+}
+
+#dog {
+  color: tan;
+}
+
+#sheep {
+  color: steelBlue;
+}
+
+#parakeet {
+  color: lime;
+}
+
+#tuna {
+  color: purple;
+}
